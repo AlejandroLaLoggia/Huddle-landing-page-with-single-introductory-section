@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AlejandroLaLoggia/Huddle-landing-page-with-single-introductory-section)
-- Live Site URL: [Add live site URL here](https://alejandrolaloggia.github.io/Huddle-landing-page-with-single-introductory-section/)
+- Solution URL: [Gtihub](https://github.com/AlejandroLaLoggia/Huddle-landing-page-with-single-introductory-section)
+- Live Site URL: [Gitpages](https://alejandrolaloggia.github.io/Huddle-landing-page-with-single-introductory-section/)
 
 ## My process
 
